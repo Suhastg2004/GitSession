@@ -1,2 +1,3 @@
 # GitSession
-Git session 
+This is my first Repository
+
